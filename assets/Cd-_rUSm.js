@@ -1,0 +1,1 @@
+import{j as o,c as r,a as e,t as s,g as n,F as c,o as u}from"./Wek-LuXR.js";const a=o({count:0,name:"Sergio",increaseCount:function(){count++}}),_={__name:"index",setup(i){return(l,t)=>(u(),r(c,null,[e("h1",null,"template "+s(n(a)),1),e("button",{onClick:t[0]||(t[0]=m=>n(a).count++)},"@")],64))}};export{_ as default};
