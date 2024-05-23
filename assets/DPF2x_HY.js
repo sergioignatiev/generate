@@ -1,1 +1,0 @@
-import{u as n,c as s,b as t,w as o,F as c,a as u,_ as r,o as l,d as a,f as m}from"./DwHAJVLf.js";const p=u("h1",null,"about",-1),b={__name:"about",setup(d){return n({title:"ABT"}),(x,f)=>{const e=r,_=m;return l(),s(c,null,[p,t(e,{to:"/about/"},{default:o(()=>[a("home")]),_:1}),t(e,{to:"/about/test"},{default:o(()=>[a("test")]),_:1}),t(_)],64)}}};export{b as default};
