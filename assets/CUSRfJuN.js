@@ -1,1 +1,0 @@
-import{_ as t,c as s,l as o,o as c}from"./GtZiflPK.js";const r={},a={class:"px-5 bg-[lightblue]"};function l(e,n){return c(),s("div",a,[o(e.$slots,"default")])}const d=t(r,[["render",l]]);export{d as default};

@@ -14,7 +14,7 @@
     "/index.html",
     "/about/_payload.json",
     "/about/index.html",
-    "/about/test/_payload.json",
-    "/about/test/index.html"
+    "/fetch/_payload.json",
+    "/fetch/index.html"
   ]
 }
