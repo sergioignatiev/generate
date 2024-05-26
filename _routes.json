@@ -11,10 +11,6 @@
     "/404.html",
     "/favicon.ico",
     "/hub.config.json",
-    "/index.html",
-    "/about/_payload.json",
-    "/about/index.html",
-    "/fetch/_payload.json",
-    "/fetch/index.html"
+    "/index.html"
   ]
 }

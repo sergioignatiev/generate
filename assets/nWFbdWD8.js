@@ -1,1 +1,0 @@
-import{_ as t,c as s,q as o,o as c}from"./CDrqSgUI.js";const r={},a={class:"px-5 bg-[lightblue]"};function n(e,l){return c(),s("div",a,[o(e.$slots,"default")])}const d=t(r,[["render",n]]);export{d as default};
