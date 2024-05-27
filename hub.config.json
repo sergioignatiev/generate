@@ -1,7 +1,0 @@
-{
-  "analytics": false,
-  "blob": false,
-  "cache": false,
-  "database": false,
-  "kv": false
-}
