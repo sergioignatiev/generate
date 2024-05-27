@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/assets/*",
+    "/_payload.json",
+    "/.nojekyll",
+    "/200.html",
+    "/404.html",
+    "/favicon.ico",
+    "/hub.config.json",
+    "/index.html"
+  ]
+}

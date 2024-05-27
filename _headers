@@ -1,0 +1,6 @@
+/assets/builds/meta/*
+  cache-control: public, max-age=31536000, immutable
+/assets/builds/*
+  cache-control: public, max-age=1, immutable
+/assets/*
+  cache-control: public, max-age=31536000, immutable
